@@ -1,0 +1,2 @@
+/*! For license information please see 93580.ac9c3a10.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunknorthwind=self.webpackChunknorthwind||[]).push([[93580],{93580:(e,n,t)=>{t.r(n),t.d(n,{CalciteColorPickerSwatch:()=>r,defineCustomElement:()=>s});var c=t(97446);const r=c.C,s=c.d}}]);

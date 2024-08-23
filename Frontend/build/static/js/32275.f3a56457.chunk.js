@@ -1,0 +1,2 @@
+/*! For license information please see 32275.f3a56457.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunknorthwind=self.webpackChunknorthwind||[]).push([[32275],{32275:(e,n,t)=>{t.r(n),t.d(n,{CalciteButton:()=>u,defineCustomElement:()=>c});var s=t(14105);const u=s.B,c=s.d}}]);

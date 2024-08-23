@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknorthwind=self.webpackChunknorthwind||[]).push([[70116],{70116:(n,E,Y)=>{var B;Y.d(E,{Y:()=>B}),function(n){n[n.KILOBYTES=1024]="KILOBYTES",n[n.MEGABYTES=1048576]="MEGABYTES",n[n.GIGABYTES=1073741824]="GIGABYTES"}(B||(B={}))}}]);
+//# sourceMappingURL=70116.934db048.chunk.js.map
