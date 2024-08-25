@@ -40,3 +40,12 @@
 .margin-bottom {
     margin-bottom: 50px;
 }
+
+@media screen and (max-width:600px) {
+    .esri-legend__service{
+        height: 200px;
+    }
+    .esri-view-height-small .esri-ui-corner .esri-component.esri-widget--panel{
+        height: 200px;
+    }
+}
