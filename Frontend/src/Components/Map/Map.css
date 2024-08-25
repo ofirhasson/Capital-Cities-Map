@@ -42,10 +42,7 @@
 }
 
 @media screen and (max-width:600px) {
-    .esri-legend__service{
-        margin-bottom: 50px;
-    }
-    .esri-view-height-small .esri-ui-corner .esri-component.esri-widget--panel{
-        margin-bottom: 50px;
+    .margin-bottom {
+        margin-bottom: 120px;
     }
 }
