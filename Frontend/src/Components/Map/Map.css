@@ -43,9 +43,9 @@
 
 @media screen and (max-width:600px) {
     .esri-legend__service{
-        height: 200px;
+        margin-bottom: 50px;
     }
     .esri-view-height-small .esri-ui-corner .esri-component.esri-widget--panel{
-        height: 200px;
+        margin-bottom: 50px;
     }
 }
