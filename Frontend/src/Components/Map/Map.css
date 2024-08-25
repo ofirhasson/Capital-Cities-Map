@@ -13,16 +13,30 @@
 .toggle-button {
     position: absolute;
     bottom: 30px;
-    right: 30px;
     background-color: #007acc;
     color: white;
     padding: 10px 15px;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
-    z-index: 1000; /* Ensure the button is above map layers */
+    z-index: 1;
+}
+
+.right {
+    right: 30px;
+}
+
+.left {
+    left: 30px;
+}
+
+.display-none {
+    display: none;
 }
 
 .toggle-button:hover {
     background-color: #005f99;
+}
+
+.margin-bottom {
+    margin-bottom: 50px;
 }
